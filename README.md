@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -62,8 +60,6 @@ sudo apt-get install python3 python3-pip
 ```
 
 ### Installation
-
-Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
 1. Clone the repo
 
