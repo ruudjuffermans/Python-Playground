@@ -103,15 +103,20 @@ pip install --no-cache-dir -r requirements.txt
 
 ## Roadmap
 
-- [x] CollectionsModule
-- [x] Requests
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [ ] The Python Standard Library
+  - [ ] collections
+  - [ ] datetime
+  - [ ] math
+  - [ ] os
+  - [ ] re
+  - [ ] sys
+  - [ ] threading
+- [ ] External Python Libraries
+  - [ ] pandas
+  - [ ] numpy
+  - [ ] pytest
 
-See the [open issues](https://github.com/othneildrew/Python-Playground/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ruudjuffermans/Python-Playground/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
