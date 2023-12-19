@@ -1,29 +1,21 @@
-# Python program to demonstrate  
-# userstring  
-     
-from collections import UserString  
-     
-# Creating a Mutable String  
-class Mystring(UserString):  
-        
-    # Function to append to  
-    # string  
-    def append(self, s):  
-        self.data += s  
-            
-    # Function to remove from   
-    # string  
-    def remove(self, s):  
-        self.data = self.data.replace(s, "")  
-        
-# Driver's code  
-s1 = Mystring("Geeks")  
-print("Original String:", s1.data)  
-    
-# Appending to string  
-s1.append("s")  
-print("String After Appending:", s1.data)  
-    
-# Removing from string  
-s1.remove("e")  
-print("String after Removing:", s1.data)
+"""userstring.
+
+@see: https://docs.python.org/3/library/collections.html#userstring-objects
+@see: https://www.geeksforgeeks.org/collections-userstring-in-python/?ref=lbp
+
+Strings are the arrays of bytes representing Unicode characters. However, Python does not support the character data type. A character is a string of length one. 
+"""
+
+from collections import UserString
+ 
+ 
+d = 12344
+ 
+# Creating an UserDict
+userS = UserString(d)
+print(userS.data)
+ 
+ 
+# Creating an empty UserDict
+userS = UserString("")
+print(userS.data)
