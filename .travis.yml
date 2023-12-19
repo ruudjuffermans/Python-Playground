@@ -1,0 +1,18 @@
+language: python
+python:
+  - "3.7"
+
+# Install dependencies.
+install:
+  - python3 -m pip install --upgrade pip
+  - pip install -r requirements.txt
+
+# Run linting and tests.
+script:
+  - pylint ./src
+  - flake8 ./src --statistics --count
+  - pytest
+
+# Turn email notifications off.
+notifications:
+  email: false
