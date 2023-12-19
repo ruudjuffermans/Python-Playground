@@ -6,12 +6,13 @@
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ruudjuffermans/Python-Playground">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="logo generated with gpt4" width="160" height="160">
   </a>
 
   <h1 align="center">Python Playground</h1>
@@ -47,8 +48,6 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -97,11 +96,7 @@ python3 -m pip install --upgrade pip
 pip install --no-cache-dir -r requirements.txt
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Usage
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
 
@@ -114,8 +109,6 @@ pip install --no-cache-dir -r requirements.txt
   - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Python-Playground/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
@@ -130,13 +123,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 Distributed under the Apache License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
@@ -145,12 +134,7 @@ Instagram - [@rudy-j3](https://www.instagram.com/rudy_j3/)
 Email - [ruudjuf@gmail.com](https://mailto:ruudjuf@gmail.com)
 Website - [2cluster](https://www.instagram.com/rudy_j3/)
 
-Project Link: [https://github.com/ruudjuffermans/Python-Playground](https://github.com/ruudjuffermans/Python-Playground)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+Project Link: [github.com/ruudjuffermans/Python-Playground](https://github.com/ruudjuffermans/Python-Playground)
 
 [contributors-shield]: https://img.shields.io/github/contributors/ruudjuffermans/Python-Playground.svg?style=for-the-badge
 [contributors-url]: https://github.com/ruudjuffermans/Python-Playground/graphs/contributors
@@ -164,3 +148,5 @@ Project Link: [https://github.com/ruudjuffermans/Python-Playground](https://gith
 [license-url]: https://github.com/ruudjuffermans/Python-Playground/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/r-j3
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/rudy_j3
