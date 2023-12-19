@@ -5,6 +5,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url]
+
+<br/>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 
@@ -146,7 +149,7 @@ Project Link: [github.com/ruudjuffermans/Python-Playground](https://github.com/r
 [issues-url]: https://github.com/ruudjuffermans/Python-Playground/issues
 [license-shield]: https://img.shields.io/github/license/ruudjuffermans/Python-Playground.svg?style=for-the-badge
 [license-url]: https://github.com/ruudjuffermans/Python-Playground/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [linkedin-url]: https://linkedin.com/in/r-j3
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/rudy_j3
